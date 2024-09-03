@@ -8,6 +8,11 @@ public class IdeaDemoDevcontainersApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(IdeaDemoDevcontainersApplication.class, args);
+        System.out.println("#####################################");
+        System.out.println("#                                   #");
+        System.out.println("#     Not malfunction, alive!!      #");
+        System.out.println("#                                   #");
+        System.out.println("#####################################");
     }
 
 }
